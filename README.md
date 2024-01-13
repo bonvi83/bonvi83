@@ -1,4 +1,4 @@
-- 👋 Ciao, mi chiamo Andrea ed in rete sono bonvi83
+- 👋 Ciao, mi chiamo Andrea.
 - 👀 Per me questo è un mondo nuovo, tutto da esplorare.
 - 📚 Attualmente sono uno stedente di Boolean e sto imparando le basi per diventare un full stack developer.
 - 👷 Provengo da tutt'altro settore, ho svolto principalmente lavori manuali, ma la tecnologia mi è sempre piaciuta ed ho deciso di 🪂 buttarmi in questa avventura.
