@@ -1,0 +1,7 @@
+- 👋 Ciao, mi chiamo Andrea ed in rete sono bonvi83
+- 👀 Per me questo è un mondo nuovo, tutto da esplorare.
+- 📚 Attualmente sono uno stedente di Boolean e sto imparando le basi per diventare un full stack developer.
+- 👷 Provengo da tutt'altro settore, ho svolto principalmente lavori manuali, ma la tecnologia mi è sempre piaciuta ed ho deciso di 🪂 buttarmi in questa avventura.
+- 👨🏻‍🏫 Se qualche buon anima volesse darmi consigli, suggerimenti o altro... BEN VENGA!
+- 🙃 Pratico, o meglio praticavo, diversi sport ⛰🗻 🧗🏻‍♂️ 🚵🏻‍♂️ 🚣🏻‍♂️ ⛷ 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️, ora passo 9-11 ore davanti al pc 💻. 🤷🏻‍♂️
+- 💪🏻 E' un percorso sicuramente duro, ma credo che cn impegno e dedizione, otterò dei buoni risultati! 💪🏻
