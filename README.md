@@ -1,7 +1,8 @@
 - 👋 Ciao, mi chiamo Andrea.
-- 👀 Per me questo è un mondo nuovo, tutto da esplorare.
-- 📚 Attualmente sono uno stedente di Boolean e sto imparando le basi per diventare un full stack developer.
+- 👀 Per me questo è un mondo nuovo, tutto da esplorare e scoprire.
+- 📚 Attualmente sono uno stedente di Boolean e sto imparando le basi per diventare un 💻 web full stack developer.
 - 👷 Provengo da tutt'altro settore, ho svolto principalmente lavori manuali, ma la tecnologia mi è sempre piaciuta ed ho deciso di 🪂 buttarmi in questa avventura.
-- 👨🏻‍🏫 Se qualche buon anima volesse darmi consigli, suggerimenti o altro... BEN VENGA!
-- 🙃 Pratico, o meglio praticavo, diversi sport ⛰🗻 🧗🏻‍♂️ 🚵🏻‍♂️ 🚣🏻‍♂️ ⛷ 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️, ora passo 9-11 ore davanti al pc 💻. 🤷🏻‍♂️
+- 👨🏻‍🏫 Se qualche buon anima volesse darmi consigli, suggerimenti o altro... BEN VENGA! 🤓
 - 💪🏻 E' un percorso sicuramente duro, ma credo che cn impegno e dedizione, otterò dei buoni risultati! 💪🏻
+- 🙃 Pratico, o meglio praticavo, diversi sport ⛰🗻 🧗🏻‍♂️ 🚵🏻‍♂️ 🚣🏻‍♂️ ⛷ 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️, ora passo 9-11 ore davanti al pc 💻. 🤷🏻‍♂️
+- 😍 Sono appassionato di fotografia 📷 e unisco questa mia passione a qualche viaggio 🗺 che mi condedo di tanto in tanto. Mi piace l'arte in generale 🎭, anche se non sono un       grande esperto. Altra mia recente passione è la rasatura tradizionale 🧼🪒.
