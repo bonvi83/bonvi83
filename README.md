@@ -16,3 +16,8 @@
 - 💪🏻 E' un percorso sicuramente duro, ma credo che con impegno e dedizione, otterò dei buoni risultati! 💪🏻
 - 🙃 Pratico, o meglio praticavo, diversi sport ⛰🗻 🧗🏻‍♂️ 🚵🏻‍♂️ 🚣🏻‍♂️ ⛷ 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️, ora passo parecchie ore davanti al pc 💻. 🤷🏻‍♂️
 - 😍 Sono appassionato di fotografia 📷 e unisco questa mia passione a qualche viaggio 🗺 che mi concedo di tanto in tanto. Mi piace l'arte in generale 🎭, mostre e musei. Altra mia recente passione è la rasatura tradizionale 🧼🪒.
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonvi83&show_icons=true&locale=en&layout=compact" alt="bonvi83" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonvi83&show_icons=true&locale=en" alt="bonvi83" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonvi83&" alt="bonvi83" /></p>
