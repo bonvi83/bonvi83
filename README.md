@@ -12,7 +12,7 @@
   ![LARAVEL](https://img.shields.io/badge/LARAVEL-red)
   ![GITHUB](https://img.shields.io/badge/GITHUB-4A4A4A)
 - 👷 Provengo da tutt'altro settore, ho svolto principalmente lavori manuali, ma la tecnologia mi è sempre piaciuta ed ho deciso di 🪂 buttarmi in questa avventura e "cambiare vita".
-- 👨🏻‍🏫 Sto studiando nuove tecnologie che credo siano molto richieste e che mi possano aiutare nella ricerca del lavoro. Tecnologie come Angular, React, JAVA e Python. 🤓
+- 👨🏻‍🏫 Sto studiando nuove tecnologie che credo siano molto richieste e che mi possano aiutare nella ricerca del lavoro. Tecnologie come **Angular**, **React**, **JAVA** e **Python**. 🤓
 - 💪🏻 E' un percorso sicuramente duro, ma credo che con impegno e dedizione, otterò dei buoni risultati! 💪🏻
 - 🙃 Pratico, o meglio praticavo, diversi sport ⛰🗻 🧗🏻‍♂️ 🚵🏻‍♂️ 🚣🏻‍♂️ ⛷ 🏊🏻‍♂️ 🚴🏻‍♂️ 🏃🏻‍♂️, ora passo parecchie ore davanti al pc 💻. 🤷🏻‍♂️
 - 😍 Sono appassionato di fotografia 📷 e unisco questa mia passione a qualche viaggio 🗺 che mi concedo di tanto in tanto. Mi piace l'arte in generale 🎭, mostre e musei. Altra mia recente passione è la rasatura tradizionale 🧼🪒.
